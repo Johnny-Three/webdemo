@@ -1,4 +1,4 @@
-![mahua](http://img3.imgtn.bdimg.com/it/u=3015310147,1044667610&fm=21&gp=0.jpg)
+![](http://img3.imgtn.bdimg.com/it/u=3015310147,1044667610&fm=21&gp=0.jpg)
 
 ##webdemo是什么?
 
@@ -17,8 +17,7 @@ demo2是从网上摘抄的代码，比较简单清晰，放在这里供需要的
 
 感谢网上已有的资料，demo1从这里面拼了出来，接下来它会用到我的项目里
 
-* [link1](http://www.hitripod.com/blog/2015/11/http-restful-api-with-golang/
-) 
+* [link1](http://www.hitripod.com/blog/2015/11/http-restful-api-with-golang/) 
 * [link2](http://www.01happy.com/golang-http-client-get-and-post/)
 * [link3](http://studygolang.com/articles/1923)
 
