@@ -1,5 +1,3 @@
-![golang](https://github.com/golang/go/blob/master/doc/gopher/fiveyears.jpg)
-
 ##webdemo是什么?
 
 示例http server 与 client 通信。
@@ -21,7 +19,7 @@ demo2是从网上摘抄的代码，比较简单清晰，放在这里供需要的
 * [link2](http://www.01happy.com/golang-http-client-get-and-post/)
 * [link3](http://studygolang.com/articles/1923)
 
-特别感谢在线编辑readme文件的作者，Well done , 推广一下：
+特别感谢在线编辑readme文件的作者，Well done , 广而告之：
 
 * [在线的Markdown编辑器](http://studygolang.com/articles/1923)
 
