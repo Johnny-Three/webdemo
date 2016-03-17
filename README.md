@@ -1,4 +1,4 @@
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+![golang](http://img3.imgtn.bdimg.com/it/u=3015310147,1044667610&fm=21&gp=0.jpg)
 
 ##webdemo是什么?
 
