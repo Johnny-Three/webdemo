@@ -1,4 +1,4 @@
-![golang](http://img3.imgtn.bdimg.com/it/u=3015310147,1044667610&fm=21&gp=0.jpg)
+[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
 
 ##webdemo是什么?
 
