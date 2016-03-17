@@ -1,4 +1,4 @@
-![](http://img3.imgtn.bdimg.com/it/u=3015310147,1044667610&fm=21&gp=0.jpg)
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 
 ##webdemo是什么?
 
@@ -21,7 +21,7 @@ demo2是从网上摘抄的代码，比较简单清晰，放在这里供需要的
 * [link2](http://www.01happy.com/golang-http-client-get-and-post/)
 * [link3](http://studygolang.com/articles/1923)
 
-特别感谢在线编辑readme文件的作者，Well done , 替你做个广告，link如下：
+特别感谢在线编辑readme文件的作者，Well done , 推广一下：
 
 * [在线的Markdown编辑器](http://studygolang.com/articles/1923)
 
